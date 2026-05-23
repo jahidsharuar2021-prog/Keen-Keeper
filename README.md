@@ -1,22 +1,31 @@
 📌Project Name:
->Keen Keeper
+🧠 Keen Keeper
 📖 Short Description
-Keen Keeper is a modern web application that allows users to track and manage activities in a dynamic timeline. It provides an interactive interface where users can perform actions and instantly see updates reflected in real time.
+
+Keen Keeper is a modern web application designed to help users track and manage activities through a dynamic timeline. It offers an interactive interface where every action is instantly reflected in real time, ensuring a smooth and responsive user experience.
 
 ⚙️ Technologies Used
-1.Next.js 
-2.React.js 
-3.Context API 
-4.Tailwind CSS &Daisy UI
-5.JavaScript
+Next.js
+React.js
+Context API
+Tailwind CSS & DaisyUI
+JavaScript
+🚀 Key Features
 
-🚀 3 Key Features
-1.Dynamic Timeline System
->Users can add activities (Call, Text, Video, etc.)
->Each action is instantly added to the timeline with date & icon
-2.Global State Management (Context API)
->Centralized state for managing timeline data
->Clean and scalable data flow across components
-3.Interactive UI with Real-Time Updates
->Button-based actions (Install / Action triggers)
->UI updates instantly without page reload
+1. Dynamic Timeline System
+
+Users can add activities such as calls, texts, videos, and more
+Each action is automatically added to the timeline with date and icon support
+Provides a clear and organized activity history
+
+2. Global State Management (Context API)
+
+Centralized state management for all timeline data
+Ensures clean, scalable, and maintainable data flow across components
+Simplifies communication between different parts of the app
+
+3. Interactive UI with Real-Time Updates
+
+Action-based buttons like Install and activity triggers
+Instant UI updates without page reload
+Smooth and responsive user experience
